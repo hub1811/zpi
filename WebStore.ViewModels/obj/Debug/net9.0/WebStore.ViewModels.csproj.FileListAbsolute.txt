@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.ViewModels\bin\Debug\net9.0\WebStore.ViewModels.deps.json
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.ViewModels\bin\Debug\net9.0\WebStore.ViewModels.dll
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.ViewModels\bin\Debug\net9.0\WebStore.ViewModels.pdb
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.ViewModels\bin\Debug\net9.0\WebStore.Model.dll
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.ViewModels\bin\Debug\net9.0\WebStore.Model.pdb
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.ViewModels\obj\Debug\net9.0\WebStore.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.ViewModels\obj\Debug\net9.0\WebStore.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.ViewModels\obj\Debug\net9.0\WebStore.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.ViewModels\obj\Debug\net9.0\WebStore.ViewModels.AssemblyInfo.cs
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.ViewModels\obj\Debug\net9.0\WebStore.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.ViewModels\obj\Debug\net9.0\WebStore.ViewModels.sourcelink.json
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.ViewModels\obj\Debug\net9.0\WebStore.BBF0F796.Up2Date
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.ViewModels\obj\Debug\net9.0\WebStore.ViewModels.dll
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.ViewModels\obj\Debug\net9.0\refint\WebStore.ViewModels.dll
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.ViewModels\obj\Debug\net9.0\WebStore.ViewModels.pdb
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.ViewModels\obj\Debug\net9.0\ref\WebStore.ViewModels.dll

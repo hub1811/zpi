@@ -1,0 +1,146 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "WebStore.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "WebStore.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WebStore.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebStore.DAL.dll": {}
+        }
+      },
+      "WebStore.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/WebStore.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebStore.Model.dll": {}
+        }
+      },
+      "WebStore.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "WebStore.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WebStore.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebStore.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebStore.DAL/1.0.0": {
+      "type": "project",
+      "path": "../WebStore.DAL/WebStore.DAL.csproj",
+      "msbuildProject": "../WebStore.DAL/WebStore.DAL.csproj"
+    },
+    "WebStore.Model/1.0.0": {
+      "type": "project",
+      "path": "../WebStore.Model/WebStore.Model.csproj",
+      "msbuildProject": "../WebStore.Model/WebStore.Model.csproj"
+    },
+    "WebStore.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../WebStore.ViewModels/WebStore.ViewModels.csproj",
+      "msbuildProject": "../WebStore.ViewModels/WebStore.ViewModels.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "WebStore.DAL >= 1.0.0",
+      "WebStore.Model >= 1.0.0",
+      "WebStore.ViewModels >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Student\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Student\\Documents\\Michalak\\ZPI\\LAB1\\zpi\\WebStore.Services\\WebStore.Services.csproj",
+      "projectName": "WebStore.Services",
+      "projectPath": "C:\\Users\\Student\\Documents\\Michalak\\ZPI\\LAB1\\zpi\\WebStore.Services\\WebStore.Services.csproj",
+      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Student\\Documents\\Michalak\\ZPI\\LAB1\\zpi\\WebStore.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\Users\\Student\\Documents\\Michalak\\ZPI\\LAB1\\zpi\\WebStore.DAL\\WebStore.DAL.csproj": {
+              "projectPath": "C:\\Users\\Student\\Documents\\Michalak\\ZPI\\LAB1\\zpi\\WebStore.DAL\\WebStore.DAL.csproj"
+            },
+            "C:\\Users\\Student\\Documents\\Michalak\\ZPI\\LAB1\\zpi\\WebStore.Model\\WebStore.Model.csproj": {
+              "projectPath": "C:\\Users\\Student\\Documents\\Michalak\\ZPI\\LAB1\\zpi\\WebStore.Model\\WebStore.Model.csproj"
+            },
+            "C:\\Users\\Student\\Documents\\Michalak\\ZPI\\LAB1\\zpi\\WebStore.ViewModels\\WebStore.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\Student\\Documents\\Michalak\\ZPI\\LAB1\\zpi\\WebStore.ViewModels\\WebStore.ViewModels.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

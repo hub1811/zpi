@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\bin\Debug\net9.0\WebStore.DAL.deps.json
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\bin\Debug\net9.0\WebStore.DAL.dll
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\bin\Debug\net9.0\WebStore.DAL.pdb
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\bin\Debug\net9.0\WebStore.Model.dll
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\bin\Debug\net9.0\WebStore.Model.pdb
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\obj\Debug\net9.0\WebStore.DAL.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\obj\Debug\net9.0\WebStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\obj\Debug\net9.0\WebStore.DAL.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\obj\Debug\net9.0\WebStore.DAL.AssemblyInfo.cs
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\obj\Debug\net9.0\WebStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\obj\Debug\net9.0\WebStore.DAL.sourcelink.json
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\obj\Debug\net9.0\WebStore.C7F65FE2.Up2Date
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\obj\Debug\net9.0\WebStore.DAL.dll
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\obj\Debug\net9.0\refint\WebStore.DAL.dll
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\obj\Debug\net9.0\WebStore.DAL.pdb
+C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\obj\Debug\net9.0\ref\WebStore.DAL.dll
