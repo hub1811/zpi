@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebStore.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b025f8c35b1c211f9c803bd5d6462749d56d3630")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e138252bf3ab8055b5d7ada795be32ca474d88e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebStore.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebStore.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
