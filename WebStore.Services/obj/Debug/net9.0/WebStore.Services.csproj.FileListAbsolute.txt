@@ -18,3 +18,6 @@ C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.Services\obj\Debug\net
 C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.Services\obj\Debug\net9.0\refint\WebStore.Services.dll
 C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.Services\obj\Debug\net9.0\WebStore.Services.pdb
 C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.Services\obj\Debug\net9.0\ref\WebStore.Services.dll
+C:\Users\Student\Documents\Michalak\zpi-2\zpi\WebStore.Services\obj\Debug\net9.0\WebStore.Services.dll
+C:\Users\Student\Documents\Michalak\zpi-2\zpi\WebStore.Services\obj\Debug\net9.0\refint\WebStore.Services.dll
+C:\Users\Student\Documents\Michalak\zpi-2\zpi\WebStore.Services\obj\Debug\net9.0\WebStore.Services.pdb

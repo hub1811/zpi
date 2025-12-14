@@ -10,3 +10,11 @@ C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.Model\obj\Debug\net9.0
 C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.Model\obj\Debug\net9.0\refint\WebStore.Model.dll
 C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.Model\obj\Debug\net9.0\WebStore.Model.pdb
 C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.Model\obj\Debug\net9.0\ref\WebStore.Model.dll
+C:\Users\Student\Documents\Michalak\zpi-2\zpi\WebStore.Model\obj\Debug\net9.0\WebStore.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Michalak\zpi-2\zpi\WebStore.Model\obj\Debug\net9.0\WebStore.Model.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Michalak\zpi-2\zpi\WebStore.Model\obj\Debug\net9.0\WebStore.Model.AssemblyInfo.cs
+C:\Users\Student\Documents\Michalak\zpi-2\zpi\WebStore.Model\obj\Debug\net9.0\WebStore.Model.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Michalak\zpi-2\zpi\WebStore.Model\obj\Debug\net9.0\WebStore.Model.sourcelink.json
+C:\Users\Student\Documents\Michalak\zpi-2\zpi\WebStore.Model\obj\Debug\net9.0\WebStore.Model.dll
+C:\Users\Student\Documents\Michalak\zpi-2\zpi\WebStore.Model\obj\Debug\net9.0\refint\WebStore.Model.dll
+C:\Users\Student\Documents\Michalak\zpi-2\zpi\WebStore.Model\obj\Debug\net9.0\WebStore.Model.pdb

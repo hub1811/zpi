@@ -14,3 +14,6 @@ C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\obj\Debug\net9.0\W
 C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\obj\Debug\net9.0\refint\WebStore.DAL.dll
 C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\obj\Debug\net9.0\WebStore.DAL.pdb
 C:\Users\Student\Documents\Michalak\ZPI\LAB1\zpi\WebStore.DAL\obj\Debug\net9.0\ref\WebStore.DAL.dll
+C:\Users\Student\Documents\Michalak\zpi-2\zpi\WebStore.DAL\obj\Debug\net9.0\WebStore.DAL.dll
+C:\Users\Student\Documents\Michalak\zpi-2\zpi\WebStore.DAL\obj\Debug\net9.0\refint\WebStore.DAL.dll
+C:\Users\Student\Documents\Michalak\zpi-2\zpi\WebStore.DAL\obj\Debug\net9.0\WebStore.DAL.pdb
